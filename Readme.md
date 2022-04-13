@@ -2,7 +2,7 @@
 
 Mips Compiler written with C++, no optimization, no struct. orz, ssfd......
 
-摆烂，不卷竞速
+B烂编译器，屎山不卷竞速
 
 
 
@@ -18,10 +18,12 @@ make
 ./
 ```
 
-Then run with args[], filled with filename:
+Then run the bin file:
 
 ```
-./ImgProcess_in_C example/lena2.bmp
+./BLanCompiler
 ```
 
-该项目已经在 Linux/Windows 通过验证。
+
+
+该项目已经在 Linux/Windows 验证结果相同。
